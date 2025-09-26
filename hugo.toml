@@ -2,3 +2,7 @@ baseURL = 'https://thomasdkelly.github.io/'
 languageCode = 'en-uk'
 title = 'Tom Kelly'
 theme = 'ananke'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
