@@ -1,0 +1,4 @@
+baseURL = 'https://thomasdkelly.github.io/'
+languageCode = 'en-uk'
+title = 'Tom Kelly'
+theme = 'ananke'
