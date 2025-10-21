@@ -77,6 +77,8 @@ jobs:
           key: hugo-${{ github.run_id }}
           restore-keys:
             hugo-
+      - name: Remove theme demo config
+        run: rm -f themes/LoveIt/hugo.toml
       - name: Build the site
         run: |
           hugo \
