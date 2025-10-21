@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Model Explainability on Tom Kelly</title>
-    <link>http://localhost:1313/tags/model-explainability/</link>
+    <link>https://thomasdkelly.github.io/tags/model-explainability/</link>
     <description>Recent content in Model Explainability on Tom Kelly</description>
     <generator>Hugo</generator>
     <language>en-uk</language>
     <lastBuildDate>Tue, 21 Oct 2025 21:29:01 +0800</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/model-explainability/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://thomasdkelly.github.io/tags/model-explainability/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Advanced Model Explainability - SHAP Clustering</title>
-      <link>http://localhost:1313/posts/shap-clustering/</link>
+      <link>https://thomasdkelly.github.io/posts/shap-clustering/</link>
       <pubDate>Tue, 21 Oct 2025 21:29:01 +0800</pubDate>
-      <guid>http://localhost:1313/posts/shap-clustering/</guid>
+      <guid>https://thomasdkelly.github.io/posts/shap-clustering/</guid>
       <description></description>
     </item>
   </channel>
