@@ -5,7 +5,9 @@ languageName = "English"
 theme = "LoveIt"
 
 [params]
-  title = "Tom Kelly"
+title = "Tom Kelly"
+name = "Tom Kelly"
+subtitle = "tom"
 
 [markup.goldmark.renderer]
 unsafe = true
