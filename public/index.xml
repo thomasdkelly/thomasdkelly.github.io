@@ -1,12 +1,17 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Tom Kelly</title>
-    <link>https://thomasdkelly.github.io/</link>
-    <description>Recent content on Tom Kelly</description>
-    <generator>Hugo</generator>
-    <language>en-uk</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://thomasdkelly.github.io/index.xml" rel="self" type="application/rss+xml" />
-  </channel>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Tom Kelly</title>
+        <link>https://thomasdkelly.github.io/</link>
+        <description>Tom Kelly</description>
+        <generator>Hugo -- gohugo.io</generator><language>en-uk</language><lastBuildDate>Tue, 21 Oct 2025 21:29:01 &#43;0800</lastBuildDate>
+            <atom:link href="https://thomasdkelly.github.io/index.xml" rel="self" type="application/rss+xml" />
+        <item>
+    <title>Advanced Model Explainability - SHAP Clustering</title>
+    <link>https://thomasdkelly.github.io/posts/shap-clustering/</link>
+    <pubDate>Tue, 21 Oct 2025 21:29:01 &#43;0800</pubDate>
+    <author>Tom</author>
+    <guid>https://thomasdkelly.github.io/posts/shap-clustering/</guid>
+    <description><![CDATA[Go beyond basic SHAP plots to really understand your models predictions.]]></description>
+</item>
+</channel>
 </rss>
